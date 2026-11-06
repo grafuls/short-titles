@@ -1,0 +1,3 @@
+name: short-titles
+version: "0.1.0"
+description: "Renames Telegram DM topics to 1-2 word names: watches for llm session titles, distills them with one tiny title-model call, renames via Bot API. Core's own rename lands first and stays as fallback."
